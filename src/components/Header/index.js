@@ -1,4 +1,4 @@
-import react, { Component } from 'react';
+import React, {Component} from 'react';
 import {Route, Redirect, HashRouter} from "react-router-dom";
 import Navigation from '../../components/Navigation';
 import About from '../../components/About';
@@ -6,20 +6,26 @@ import Contact from '../../components/Contact';
 import Portfolio from '../../components/Portfolio';
 import Resume from '../../components/Resume';
 
-
-class Header extends Component {
+class Header extends Component {   
     render() {
-        return (
-         
+    return (
         <HashRouter>
-             <div className="row Header" id="header">
-                <a href="https://jpd61.github.io/jpd-react-portfolio/"><img src="https://img.icons8.com/color/48/000000/astronaut.png" alt="Joseph DeWoody" class="icon" id="astro"/></a>
+            <div className="row Header" id="header">
+                <a href="put the deployed link"><img src="https://img.icons8.com/color/48/000000/astronaut.png" alt="Joseph DeWoody" class="icon" id="astro"/></a>
                 <Navigation/>
             </div>
-        </HashRouter>
+    
 
-        );
-    }
+    <div className="content">
+          <Route exact path="/" render={() => (<Redirect to="/portfolio"/>)}/>
+          <Route path="/portfolio" component={Portfolio}/>
+          <Route path="/about" component={About}/>
+          <Route path="/contact" component={Contact}/>
+          <Route path="/resume" component={Resume}/>
+        </div>
+    </HashRouter>
+    )
+}
 }
 
 export default Header;
