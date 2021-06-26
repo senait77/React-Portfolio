@@ -1,0 +1,51 @@
+[
+    {
+    "id": 1,
+    "name": "Note-taker",
+    "image": "https://github.com/senait77/Note-Taker-/blob/main/public/images/note-taker.png",
+    "github": "https://github.com/senait77/Note-Taker-",
+    "deploy": "https://warm-headland-12546.herokuapp.com/",
+    "topics": "node-js, nodemon, express-js, handlebars-js, mysql, sequelize, dotenv, bcrypt, mocha, lodash, animate-css"
+    },
+    {
+    "id": 2,
+    "name": "mvc tech blog",
+    "image": "https://github.com/jpd61/jpd-react-portfolio/raw/master/src/assets/images/tech-blog.PNG",
+    "github": "https://github.com/jpd61/mvc-tech-blog",
+    "deploy": "https://hidden-falls-22101.herokuapp.com/",
+    "topics": "model-view-controller, bulma, bcrypt, express-js, mysql, sequelize, node-js, nodemon, dotenv, handlebars-js, jest"
+    },
+    {
+    "id": 3,
+    "name": "budget tracker",
+    "image": "",
+    "github": "https://github.com/senait77/Budget-tracker",
+    "deploy": "",
+    "topics": "javascript, pwa, indexedDB, mongoDB, mongoose, compression, morgan, nodemon, express"
+    },
+    {
+    "id": 4,
+    "name": "weather dashboard",
+    "image": "https://github.com/senait77/weather-dashboard/blob/main/assets/images/Screenshot.png",
+    "github": "https://github.com/senait77/weather-dashboard",
+    "deploy": "https://senait77.github.io/weather-dashboard/",
+    "topics": "javascript, jQuery, html, bootstrap, moment, API"
+    },
+    {
+    "id": 5,
+    "name": "project-1-world-clock and currency converter",
+    "image": "https://github.com/Kingly77/Project/blob/master/assets/images/project-ss.png",
+    "github": "https://github.com/Kingly77/Project",
+    "deploy": "https://kingly77.github.io/Project/",
+    "topics": "HTML, CSS, API, JAVASCRIPT"
+      },
+    {
+    "id": 6,
+    "name": "work day schedular",
+    "image": "https://github.com/senait77/work-Planner/blob/main/planner.png",
+    "github": "https://github.com/senait77/work-Planner",
+    "deploy": "https://senait77.github.io/work-Planner/",
+    "topics": "HTML, Javascript, Bootstrap, CSS, jQuery, Moment"
+    }
+   
+]
