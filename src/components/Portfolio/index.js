@@ -1,7 +1,7 @@
 import React from 'react'; 
 import ProjectCards from '../../components/Project'
 import portfolio from '../../portofolio.json'
-import 'react-bootstrap';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function Wrapper(props) {
     return <div className="wrapper">{props.children}</div>;
@@ -12,7 +12,7 @@ function Portfolio () {
     return (
         <section>
           <div className="project">
-            <h1 className="title">development portfolio: senait Gerezgiher</h1>
+            <h1 className="title">Development Portfolio: Senait T Gerezgiher</h1>
             <hr></hr>
           </div>
 

@@ -4,7 +4,7 @@ function Resume() {
 
 return(
 <section class="mb-5">
-    <h1 className="resume">resume: Senait Gerezgiher</h1>
+    <h1 className="resume">Resume: Senait Gerezgiher</h1>
         <hr></hr>
         <div class="row justify-content-center" id="resume">
             <div class="mt-5 pl-5 pr-5">
@@ -14,7 +14,7 @@ return(
                 <a href="https://www.linkedin.com/in/senait-gerezgiher-70801a204/"><img src="https://img.icons8.com/color/48/000000/linkedin-2.png" alt="DeWoody LinkedIn"/></a>
                 </p>
                 <p>
-                Download my full <a href="my resume pdf" class="link">resume</a>
+                See my full <a href="my resume pdf" class="link">Resume</a>
                 <br></br>
                 </p>
             </div>

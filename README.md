@@ -11,11 +11,11 @@
 
 🔍 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Personal full stack development portfolio.
 
-**[Deployed Application](https://jpd61.github.io/jpd-react-portfolio)**
+**[Deployed Application]()**
   
 💻 Below is a screenshot of the application:
   
-![jpd-react-portfolio](https://github.com/jpd61/jpd-react-portfolio/raw/master/src/assets/images/Capture.PNG)
+![Senait-react-portfolio]()
 
 ## User Story
 
