@@ -8,14 +8,13 @@ return(
         <hr></hr>
         <div class="row justify-content-center" id="resume">
             <div class="mt-5 pl-5 pr-5">
-                Full stack developer with experience the MERN stack.
-
+                FULL STACK WEB-DEVELOPER
                 <p class="mt-5">
-                <a href="https://www.linkedin.com/in/senait-gerezgiher-70801a204/"><img src="https://img.icons8.com/color/48/000000/linkedin-2.png" alt="DeWoody LinkedIn"/></a>
+                <a href="https://www.linkedin.com/in/senait-gerezgiher-70801a204/"><img src="https://img.icons8.com/color/48/000000/linkedin-2.png" alt="Senait-LinkedIn"/></a>
                 </p>
-                <p>
-                See my full <a href="my resume pdf" class="link">Resume</a>
-                <br></br>
+                
+                <p class="mt-5">
+                <a href="https://github.com/senait77"><img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="Senait-Github"/></a>
                 </p>
             </div>
         </div>
@@ -29,7 +28,7 @@ return(
             <div id="front-back" class="mt-5">
                 <h2>back end experience</h2>
                 <p>
-                Node.js, Express.js, SQL (mySQL), Sequelize, NoSQL (MongoDB, Mongoose),  API's (third-party, RESTful, server-side), Templating (Handlebars)
+                Node.js, Express.js, SQL (mySQL), Sequelize, NoSQL (MongoDB, Mongoose),  API's (third-party, RESTful, server-side), Templating (Handlebars), GraphQL
                 </p>
             </div>
         </div>
