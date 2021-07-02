@@ -15,7 +15,7 @@
   
 💻 Below is a screenshot of the application:
   
-![Senait-react-portfolio]()
+![Senait-react-portfolio](https://github.com/senait77/react-portfolio/blob/main/src/assets/images/react.png?raw=true)
 
 ## User Story
 
